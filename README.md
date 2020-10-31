@@ -1,1 +1,1 @@
-# UnitySensorDataVisualization
+# Unity Sensor Data Visualization Research
